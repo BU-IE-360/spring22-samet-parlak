@@ -7,4 +7,4 @@
 
 ### Homework 2
 
-[Homework2](https://bu-ie-360.github.io/spring22-samet-parlak/hw2.m.html) is uploaded!
+[Homework2](https://bu-ie-360.github.io/spring22-samet-parlak/hw2m.html) is uploaded!
