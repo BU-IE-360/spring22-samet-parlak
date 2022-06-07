@@ -12,6 +12,6 @@
 
 ### Term Project
 
-[Term_project_html_file](https://bu-ie-360.github.io/spring22-samet-parlak/project/Project.html) is uploaded!
+[Term Project Html File](https://bu-ie-360.github.io/spring22-samet-parlak/project/Project.html) is uploaded!
 
-[Term_project_R_Markdown_file](https://bu-ie-360.github.io/spring22-samet-parlak/project/project.rmd) is uploaded!
+[Term_project R Markdown File](https://bu-ie-360.github.io/spring22-samet-parlak/project/project.rmd) is uploaded!
